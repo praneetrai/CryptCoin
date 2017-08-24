@@ -1,0 +1,2 @@
+# CryptCoin
+Cryptography Coin
